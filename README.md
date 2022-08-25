@@ -46,12 +46,12 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
-<h2>Github Stuff</h2>
+<h2>📕&nbsp;Github Stuff</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limweijen&theme=github_dark)
 ![Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=limweijen&count_private=true&show_icons=true&theme=github_dark)
 
-<h2>Start Here</h2>
+<h2>😀&nbsp;Start Here</h2>
 
 <a href="https://github.com/LimWeiJen/start-today">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=start-today&theme=github_dark" />
