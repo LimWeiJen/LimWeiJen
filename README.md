@@ -19,15 +19,17 @@
 </p>
 
 <h2>👋&nbsp;About Me</h2>
-<ul>
-<li>💻&nbsp;I'm a hobbyist web developer and game developer, passionate to learn new things.</li>
-<li>🌱&nbsp;I'm excited to learn more about artificial intelligence, cryptocurrency, 3d game development and computer vision.</li>
-<li>🧩&nbsp;I like to work on quick, small projects with people during my free time.</li>
-<li>💬&nbsp;Feel free to reach out to me for anything!</li>
-</ul>
+
+- 💻&nbsp;I'm a hobbyist web developer and game developer, passionate to learn new things.
+- 🌱&nbsp;I'm excited to learn more about artificial intelligence, cryptocurrency, 3d game development and computer vision.
+- 🧩&nbsp;I like to work on quick, small projects with people during my free time.
+- 💬&nbsp;Feel free to reach out to me for anything!
+
+<br>
 
 <h2>🛠&nbsp;Tech Stack</h2>
 <h3>💻&nbsp;Programming Languages</h3>
+<br>
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -46,10 +48,14 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 
+<br>
+
 <h2>📕&nbsp;Github Stuff</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limweijen&theme=github_dark)
 ![Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=limweijen&count_private=true&show_icons=true&theme=github_dark)
+
+<br>
 
 <h2>😀&nbsp;Start Here</h2>
 
