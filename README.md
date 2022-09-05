@@ -62,3 +62,12 @@
 <a href="https://github.com/LimWeiJen/start-today">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=start-today&theme=github_dark" />
 </a>
+<a href="https://github.com/LimWeiJen/wordle-with-a-twist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=wordle-with-a-twist&theme=github_dark" />
+</a>
+<a href="https://github.com/LimWeiJen/20-second-rule-monitor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=20-second-rule-monitor&theme=github_dark" />
+</a>
+<a href="https://github.com/LimWeiJen/conway-game-of-life">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=conway-game-of-life&theme=github_dark" />
+</a>
