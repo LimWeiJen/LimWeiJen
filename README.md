@@ -62,6 +62,9 @@
 
 <h2>😀&nbsp;Start Here</h2>
 
+<a href="https://github.com/LimWeiJen/route-in">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=route-in&theme=github_dark" />
+</a>
 <a href="https://github.com/LimWeiJen/start-today">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=start-today&theme=github_dark" />
 </a>
