@@ -21,7 +21,7 @@
 <h2>👋&nbsp;About Me</h2>
 
 - 💻&nbsp;I'm a hobbyist web developer and game developer, passionate to learn new things.
-- 🌱&nbsp;I'm excited to learn more about artificial intelligence, cryptocurrency, 3d game development and computer vision.
+- 🌱&nbsp;I'm excited to learn more about artificial intelligence, 3d game development and computer vision.
 - 🧩&nbsp;I like to work on quick, small projects with people during my free time.
 - 💬&nbsp;Feel free to reach out to me for anything!
 
@@ -50,6 +50,11 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+
+### 🖥️&nbsp;OS
+| Linux | Debian |
+| ----- | ----- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="50" /> |
 
 <br>
 
