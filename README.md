@@ -69,6 +69,9 @@
 <a href="https://github.com/LimWeiJen/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=portfolio&theme=github_dark" />
 </a>
+<a href="https://github.com/LimWeiJen/open-source-chat-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=open-source-chat-client&theme=github_dark" />
+</a>
 <a href="https://github.com/LimWeiJen/route-in">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=route-in&theme=github_dark" />
 </a>
