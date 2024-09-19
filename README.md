@@ -35,9 +35,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 
 <h3>🚀&nbsp;Technologies</h3>
 
+![Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=googlegemini)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -50,6 +52,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 
 ### 🖥️&nbsp;OS
 | Linux | Debian |
@@ -61,13 +64,14 @@
 <h2>📕&nbsp;Github Stuff</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limweijen&theme=github_dark)
-![Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=limweijen&count_private=true&show_icons=true&theme=github_dark)
-
 <br>
 
 <h2>😀&nbsp;Start Here</h2>
 <a href="https://github.com/LimWeiJen/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=portfolio&theme=github_dark" />
+</a>
+<a href="https://github.com/LimWeiJen/echo-letters">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=echo-letters&theme=github_dark" />
 </a>
 <a href="https://github.com/LimWeiJen/open-source-chat-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=limweijen&repo=open-source-chat-client&theme=github_dark" />
